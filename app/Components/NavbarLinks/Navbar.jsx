@@ -22,7 +22,7 @@ const Navbar = () => {
           className="flex items-center gap-3"
         >
           <Image
-            src="/Logo_img.png"
+            src="https://res.cloudinary.com/dt2juqy9s/image/upload/v1745319822/Logo_img_rxgrwt.png"
             className="rounded-full"
             alt="SwanSorter Logo"
             width={50}
